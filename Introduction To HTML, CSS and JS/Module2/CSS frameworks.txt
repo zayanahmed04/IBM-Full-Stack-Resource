@@ -1,0 +1,13 @@
+CSS Frameworks:
+Plain CSS:
+- write all the style on your own
+- lot of time and effort
+Utility framework:
+- gives prebuild classes
+- direct integrate
+- TAILWIND CSS
+- fast but slow to load
+Component framework:
+- pre-style templates
+- need little knowledge of CSS
+- BOOTSTRAP

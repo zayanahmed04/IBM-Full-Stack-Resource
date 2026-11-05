@@ -1,0 +1,10 @@
+Javascript best practices:
+- Use linters (X0)
+- Use typescript
+- Avoid Global vars
+- place code at the bottom of your page
+- Declare vars outside of lengthy statements
+- optimize loops
+- Comments
+- Take advantage of (ES6 features)
+- 
